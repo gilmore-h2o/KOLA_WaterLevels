@@ -7,12 +7,14 @@ Code to process and compare water level data from different sensors at the Kearn
 
 Timestamps:
 •	Realtime well is recorded in UTC time. 
-•	HOBOs are in Central Time (we need to verify whether Daylight or Standard)
+•	HOBOs are in Central Time
+
 Time Zone	Example Time	UTC Time
 UTC	11:00 PM	UTC-0
 Central Daylight Time	6:00 PM	UTC-5
 Central Standard Time	5:00 PM	UTC-6
 Daylight savings starts in February and ends in November
+
 Elevations:
 Elevations determined using survey-grade GPS unit on 7/25/2023. Estimated accuracy cm-grade.
 Location	Reference Elevation* (m)	Measuring Point Elevation (m)
